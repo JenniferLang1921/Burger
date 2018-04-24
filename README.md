@@ -16,7 +16,7 @@ Frontend Technologies Used: Javascript, Jquery, Chosen, Bootstrap, HTMl5, Handle
 ## Installation
 
 ```
-git clone https://github.com/JenniferLang1921/Eat-Da-Burger.git
+git clone https://github.com/JenniferLang1921/Burger.git
 cd Eat-Da-Burger
 npm install
 ```
