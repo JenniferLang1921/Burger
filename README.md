@@ -3,7 +3,7 @@ An app that logs food the user eats and uses mySQL, node.js, and express
 
 ## Description
 
-An app that logs food the user eats and uses mySQL, node.js, and express
+Eat-Da-Burger allows the user to input a hamburger, for example "Bacon Jalapeno Cheeseburger", then it logs the hamburger with mySQL database.  Then the user can "eat" their food and move it to the eaten category on the website.  
 
 Backend Technologies Used:  Node.js, Express, mySQL
 
