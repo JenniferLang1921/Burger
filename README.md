@@ -5,13 +5,13 @@
 
 Eat-Da-Burger allows the user to input a hamburger, for example "Bacon Jalapeno Cheeseburger", then it logs the hamburger with mySQL database.  Then the user can "eat" their food and move it to the eaten category on the website.  
 
-Backend Technologies Used:  Node.js, Express, mySQL
+Backend Technologies Used:  Node.js, Express, mySQL, ORM
 
-Frontend Technologies Used: Javascript, Jquery, Chosen, Bootstrap, HTMl5, Handlebars
+Frontend Technologies Used: Javascript, Jquery, Bootstrap, HTMl5, Handlebars
 
 ## Demo
 
- Please check out this Eat-Da-Burger app at XXXXXXXXXXXXXXX
+ Please check out this Eat-Da-Burger app at https://salty-ravine-33985.herokuapp.com/
 
 ## Installation
 
