@@ -36,5 +36,5 @@ The application will now be running locally on PORT, in this case that is port 3
 
 Made by Jennifer Lang
 
-Soon!----This app is also located on my web developer portfolio at https://jenniferlang1921.github.io/portfolio.html
+This app is also located on my web developer portfolio at https://jenniferlang1921.github.io/portfolio.html
 
