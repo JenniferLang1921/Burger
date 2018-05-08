@@ -11,7 +11,7 @@ Frontend Technologies Used: Javascript, Jquery, Bootstrap, HTMl5, Handlebars
 
 ## Demo
 
- Please check out this Eat-Da-Burger app at https://salty-ravine-33985.herokuapp.com/
+ Check out this Eat-Da-Burger app at https://salty-ravine-33985.herokuapp.com/
 
 ## Installation
 
